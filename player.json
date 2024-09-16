@@ -2,27 +2,27 @@
   "Players": [
     {
       "ID": "51DF6F6EE6062998",
-      "Role": "Admin"
+      "Role": "Mod"
     },
     {
       "ID": "FEB940D8189A7768",
-      "Role": "Mod"
-    },
-    {
-      "ID": "78256C03C4062CF5",
-      "Role": "VIP"
-    },
-    {
-      "ID": "B36B8704F6175493",
-      "Role": "Player"
-    },
-    {
-      "ID": "555E774F38579077",
       "Role": "Admin"
     },
     {
-      "ID": "D8462F3FD52CBDCE",
+      "ID": "78256C03C4062CF5",
+      "Role": "Player"
+    },
+    {
+      "ID": "B36B8704F6175493",
       "Role": "Mod"
+    },
+    {
+      "ID": "555E774F38579077",
+      "Role": "Player"
+    },
+    {
+      "ID": "D8462F3FD52CBDCE",
+      "Role": "Admin"
     },
     {
       "ID": "2E64E9CB3122B418",
@@ -30,7 +30,7 @@
     },
     {
       "ID": "651D22964D682EF8",
-      "Role": "VIP"
+      "Role": "Mod"
     },
     {
       "ID": "8A48662401A01701",
@@ -42,32 +42,27 @@
     },
     {
       "ID": "C37F29ED8EC80792",
-      "Role": "Mod"
-    },
-    {
-      "ID": "FA99A4C01CA1C949",
-      "Role": "VIP"
-    },
-    {
-      "ID": "B7D612B89534FDB6",
       "Role": "Player"
     },
     {
-      "ID": "5F80DDA9075E72D8",
-      "Role": "Admin"
-    },
-    {
-      "ID": "27A3DFA2D58CE169",
+      "ID": "FA99A4C01CA1C949",
       "Role": "Mod"
     },
     {
-      "ID": "5316375C553E2811",
-      "Role": "Special"
+      "ID": "B7D612B89534FDB6",
+      "Role": "Admin"
+    },
+    {
+      "ID": "5F80DDA9075E72D8",
+      "Role": "Player"
+    },
+    {
+      "ID": "27A3DFA2D58CE169",
+      "Role": "Player"
     },
     {
       "ID": "EAA49DB3AD413DB2",
       "Role": "Mod"
-      
     }
   ]
 }
