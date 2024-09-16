@@ -1,20 +1,68 @@
 {
-  "authorizedPlayers": [
-    "51DF6F6EE6062998",
-    "FEB940D8189A7768",
-    "78256C03C4062CF5",
-    "B36B8704F6175493",
-    "555E774F38579077",
-    "D8462F3FD52CBDCE",
-    "2E64E9CB3122B418",
-    "651D22964D682EF8",
-    "8A48662401A01701",
-    "1D6DB2FAD621951A",
-    "C37F29ED8EC80792",
-    "FA99A4C01CA1C949",
-    "B7D612B89534FDB6",
-    "5F80DDA9075E72D8",
-    "27A3DFA2D58CE169",
-    "5316375C553E2811"
+  "Players": [
+    {
+      "ID": "51DF6F6EE6062998",
+      "Role": "Admin"
+    },
+    {
+      "ID": "FEB940D8189A7768",
+      "Role": "Mod"
+    },
+    {
+      "ID": "78256C03C4062CF5",
+      "Role": "VIP"
+    },
+    {
+      "ID": "B36B8704F6175493",
+      "Role": "Player"
+    },
+    {
+      "ID": "555E774F38579077",
+      "Role": "Admin"
+    },
+    {
+      "ID": "D8462F3FD52CBDCE",
+      "Role": "Mod"
+    },
+    {
+      "ID": "2E64E9CB3122B418",
+      "Role": "Player"
+    },
+    {
+      "ID": "651D22964D682EF8",
+      "Role": "VIP"
+    },
+    {
+      "ID": "8A48662401A01701",
+      "Role": "Player"
+    },
+    {
+      "ID": "1D6DB2FAD621951A",
+      "Role": "Admin"
+    },
+    {
+      "ID": "C37F29ED8EC80792",
+      "Role": "Mod"
+    },
+    {
+      "ID": "FA99A4C01CA1C949",
+      "Role": "VIP"
+    },
+    {
+      "ID": "B7D612B89534FDB6",
+      "Role": "Player"
+    },
+    {
+      "ID": "5F80DDA9075E72D8",
+      "Role": "Admin"
+    },
+    {
+      "ID": "27A3DFA2D58CE169",
+      "Role": "Mod"
+    },
+    {
+      "ID": "5316375C553E2811",
+      "Role": "Special"
+    }
   ]
 }
