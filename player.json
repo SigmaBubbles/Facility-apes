@@ -6,11 +6,11 @@
     },
     {
       "ID": "FEB940D8189A7768",
-      "Role": "Admin"
+      "Role": "Mod"
     },
     {
       "ID": "78256C03C4062CF5",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "B36B8704F6175493",
@@ -18,15 +18,15 @@
     },
     {
       "ID": "555E774F38579077",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "D8462F3FD52CBDCE",
-      "Role": "Admin"
+      "Role": "Mod"
     },
     {
       "ID": "2E64E9CB3122B418",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "651D22964D682EF8",
@@ -34,15 +34,15 @@
     },
     {
       "ID": "8A48662401A01701",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "1D6DB2FAD621951A",
-      "Role": "Admin"
+      "Role": "Mod"
     },
     {
       "ID": "C37F29ED8EC80792",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "FA99A4C01CA1C949",
@@ -50,18 +50,22 @@
     },
     {
       "ID": "B7D612B89534FDB6",
-      "Role": "Admin"
+      "Role": "Mod"
     },
     {
       "ID": "5F80DDA9075E72D8",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "27A3DFA2D58CE169",
-      "Role": "Player"
+      "Role": "Mod"
     },
     {
       "ID": "EAA49DB3AD413DB2",
+      "Role": "Mod"
+    },
+    {
+      "ID": "DA9CB49CCD0E0072",
       "Role": "Mod"
     }
   ]
