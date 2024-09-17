@@ -2,71 +2,79 @@
   "Players": [
     {
       "ID": "51DF6F6EE6062998",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "FEB940D8189A7768",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "78256C03C4062CF5",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "B36B8704F6175493",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "555E774F38579077",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "D8462F3FD52CBDCE",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "2E64E9CB3122B418",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "651D22964D682EF8",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "8A48662401A01701",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "1D6DB2FAD621951A",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "C37F29ED8EC80792",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "FA99A4C01CA1C949",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "B7D612B89534FDB6",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "5F80DDA9075E72D8",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "27A3DFA2D58CE169",
-      "Role": "Mod"
+      "Role": "mod"
+    },
+    {
+      "ID": "5316375C553E2811",
+      "Role": "mod"
     },
     {
       "ID": "EAA49DB3AD413DB2",
-      "Role": "Mod"
+      "Role": "mod"
     },
     {
       "ID": "DA9CB49CCD0E0072",
-      "Role": "Mod"
+      "Role": "mod"
+    },
+    {
+      "ID": "CAC9400B11D98EA",
+      "Role": "mod"
     }
   ]
 }
